@@ -1,0 +1,22 @@
+{
+    "name": "base16-tomorrow-night",
+    "displayName": "Base16 - Tomorrow Night",
+    "description": "Base16 Tomorrow Night theme for Visual Studio Code (based on base16-tomorrow-night)",
+    "version": "1.0.0",
+    "publisher": "nashokin",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Base16 Tomorrow Night",
+                "uiTheme": "vs-dark",
+                "path": "./themes/base16-tomorrow-night.tmTheme"
+            }
+        ]
+    }
+}
