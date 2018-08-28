@@ -29,7 +29,7 @@
 		"list.dropBackground": "#683ab720",
 		//"list.focusForeground": "#ff0000",
 		//"list.inactiveFocusBackground": "#ff0000",
-		"editor.background": "#4a148c04",
+		"editor.background": "#4a148c05",
 		"editor.selectionBackground": "#683ab720",
 		"editorGroup.border": "#683ab780",
 		"editorGroupHeader.tabsBorder": "#683ab780",
