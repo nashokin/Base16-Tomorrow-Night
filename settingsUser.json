@@ -61,7 +61,7 @@
 		//"editorGutter.background": "#683ab720"
 		//"editorBracketMatch.border": "#683ab780"
 		"sideBar.border": "#683ab780",
-		"sideBar.background": "#4a148c20",
+		"sideBar.background": "#4a148c15",
 		"sideBarSectionHeader.background": "#683ab750",
 		"sideBarSectionHeader.foreground": "#d1c4e9",
 		"sideBar.dropBackground": "#683ab720",
