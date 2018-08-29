@@ -80,7 +80,7 @@
 		"breadcrumb.foreground": "#b39ddb",
 		"breadcrumbPicker.background": "#1d1f21",
 		"terminal.background": "#1d1f21",
-		"terminal.foreground": "#d1c4e9",
+		//"terminal.foreground": "#d1c4e9",
 		"terminalCursor.foreground":"#683ab750",
 		"terminal.border": "#683ab780",
 		"terminal.selectionBackground": "#683ab720"
