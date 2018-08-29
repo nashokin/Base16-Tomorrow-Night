@@ -35,7 +35,7 @@
         "breadcrumb.foreground": "#b39ddb",
         "breadcrumbPicker.background": "#1d1f21",
         "button.background": "#683ab780",
-        "dropdown.background": "#7e57c2",
+        "dropdown.background": "#683ab780",
         "dropdown.foreground": "#d1c4e9",
         "editor.lineHighlightBackground": "#683ab730",
         "editor.selectionBackground": "#683ab720",
