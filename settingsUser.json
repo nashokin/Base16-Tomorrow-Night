@@ -66,6 +66,7 @@
         "notifications.background": "#1d1f21",
         "panel.background": "#683ab720",
         "panel.border": "#442d71",
+        "panelTitle.activeBorder": "#9575cd",
         "panelTitle.activeForeground": "#d1c4e9",
         "peekView.border": "#442d71",
         "peekViewEditor.background": "#1d1f21",
