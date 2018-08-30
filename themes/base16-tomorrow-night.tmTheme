@@ -149,7 +149,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#e6e6e6</string>
+				<string>#e9e9e9</string>
 			</dict>
 		</dict>
 		<dict>
@@ -500,7 +500,7 @@
 				<key>background</key>
 				<string>#cc6666</string>
 				<key>foreground</key>
-				<string>#e6e6e6</string>
+				<string>#e9e9e9</string>
 			</dict>
 		</dict>
 		<dict>
@@ -526,7 +526,7 @@
 				<key>background</key>
 				<string>#a3685a</string>
 				<key>foreground</key>
-				<string>#e6e6e6</string>
+				<string>#e9e9e9</string>
 			</dict>
 		</dict>
 		<dict>
@@ -539,7 +539,7 @@
 				<key>background</key>
 				<string>#969896</string>
 				<key>foreground</key>
-				<string>#e6e6e6</string>
+				<string>#e9e9e9</string>
 			</dict>
 		</dict>
 	</array>
