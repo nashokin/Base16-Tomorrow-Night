@@ -89,9 +89,8 @@
         "terminal.background": "#1d1f21",
         "terminal.border": "#683ab780",
         "terminal.selectionBackground": "#683ab720",
-        "terminalCursor.foreground": "#683ab750"
+        "terminalCursor.foreground": "#3a2c53"
     },
     "workbench.colorTheme": "Base16 Tomorrow Night",
-    "workbench.editor.tabSizing": "shrink",
     "workbench.iconTheme": "material-icon-theme"
 }
