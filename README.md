@@ -4,7 +4,8 @@ This theme is converted from [chriskempson/base16-textmate](https://github.com/c
 
 ## setting.json
 Copy this json to your Visual Studio user setting section for the purple customised look.
-![Base16 Visual Studio Code purple look](https://github.com/nashokin/Base16-Tomorrow-Night/blob/master/Screenshot.png)
+![Base16 Visual Studio Code mac](https://github.com/nashokin/Base16-Tomorrow-Night/blob/master/Screenshot-mac.png)
+![Base16 Visual Studio Code windows](https://github.com/nashokin/Base16-Tomorrow-Night/blob/master/Screenshot-windows.png)
 
 ### For more information
 * [Daniel Nashokin](http://www.zyker.com.au)
