@@ -1,6 +1,10 @@
 # README
-## Base16 - Tomorrow Night VisualStudio Code theme, based on "base16-tomorrow-night"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+## Base16 - Tomorrow Night, VisualStudio Code theme.
+This theme is converted from [chriskempson/base16-textmate](https://github.com/chriskempson/base16-textmate) to Visual Studio Code compatible theme. Some white and purple colors were updated to be in sync with the Visual Studio custom settings for this theme.
+
+## setting.json
+Copy this json to your Visual Studio user setting section for the purple customised look.
+
 
 ### For more information
 * [Daniel Nashokin](http://www.zyker.com.au)
