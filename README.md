@@ -7,25 +7,11 @@ Copy this json to your Visual Studio user setting section for the purple customi
 ![Base16 Visual Studio Code mac](https://github.com/nashokin/Base16-Tomorrow-Night/blob/master/Screenshot-mac.png)
 ![Base16 Visual Studio Code windows](https://github.com/nashokin/Base16-Tomorrow-Night/blob/master/Screenshot-windows.png)
 
+### List of installed Vusial Studio Code extensions for screenshots
+* Material Icon Theme
+* Git Lens
+* Braket Pair Colorizer
+* ESLint
+
 ### For more information
 * [Daniel Nashokin](http://www.zyker.com.au)
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-### List of installed Vusial Studio Code extensions
-* Beautify
-* Braket Pair Colorizer
-* Debugger for Chrome
-* Docker
-* ESLint
-* Excel Viewer
-* Git Lens
-* Json Editor
-* JSON Tools
-* Material Icon Theme
-* npm intellisense
-* Polacode
-* Sort JSON objects
-* TSLint
-* Twig
-* Vetur
