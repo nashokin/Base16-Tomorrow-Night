@@ -20,6 +20,7 @@ Copy this json to your Visual Studio user setting section for the purple customi
 * zsh (In terminal run: 'brew install zsh zsh-completions') [macos zsh installation instructions](http://sourabhbajaj.com/mac-setup/iTerm/zsh.html)
 * [powerlevel9k theme for zsh](https://github.com/bhilburn/powerlevel9k)
 * [zsh patched fonts](https://github.com/powerline/fonts)
+* [nvm for zsh plugin](https://github.com/lukechilds/zsh-nvm)
 
 ### For more information
 * [Daniel Nashokin](http://www.zyker.com.au)
