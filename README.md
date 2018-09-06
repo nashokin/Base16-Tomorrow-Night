@@ -1,6 +1,9 @@
 ## Base16 - Tomorrow Night, Visual Studio Code theme.
 This theme is converted from [chriskempson/base16-textmate](https://github.com/chriskempson/base16-textmate) to Visual Studio Code compatible theme. White and purple colors were updated to be in sync with the Visual Studio custom settings for this theme.
 
+### Code
+![Base16 Visual Studio Code](https://raw.githubusercontent.com/nashokin/Base16-Tomorrow-Night/master/Screenshot-code.png)
+
 ## settings.json
 Copy this json to your Visual Studio user setting section for the purple customised look.
 * [settings.json](https://github.com/nashokin/Base16-Tomorrow-Night/blob/master/settings.json)
