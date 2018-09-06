@@ -13,7 +13,7 @@ Copy this json to your Visual Studio user setting section for the purple customi
 ### Windows
 ![Base16 Visual Studio Code windows](https://raw.githubusercontent.com/nashokin/Base16-Tomorrow-Night/master/Screenshot-windows.png)
 ### Linux
-![coming soon](https://www.bing.com.au)
+![Base16 Visual Studio Code windows](https://raw.githubusercontent.com/nashokin/Base16-Tomorrow-Night/master/Screenshot-linux.png)
 
 ### List of installed Vusial Studio Code extensions for screenshots
 * Material Icon Theme
