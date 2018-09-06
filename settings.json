@@ -35,6 +35,7 @@
         "activityBarBadge.foreground": "#d1c4e9",
         "badge.background": "#673ab7",
         "badge.foreground": "#d1c4e9",
+        "breadcrumb.background": "#2d2839",
         "breadcrumb.focusForeground": "#d1c4e9",
         "breadcrumb.foreground": "#b39ddb",
         "breadcrumbPicker.background": "#1d1f21",
