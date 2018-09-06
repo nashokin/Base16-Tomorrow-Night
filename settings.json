@@ -23,6 +23,7 @@
 	"terminal.integrated.fontFamily": "Ubuntu Mono derivative Powerline",
 	"terminal.integrated.shell.osx": "zsh",
 	"terminal.integrated.shell.linux": "zsh",
+	//"terminal.integrated.shell.windows": "ubuntu",
 	"vscode-json-editor.theme": "dark",
 	"vsicons.projectDetection.autoReload": true,
 	"window.restoreFullscreen": true,
