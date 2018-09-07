@@ -3,8 +3,9 @@
 	"editor.cursorStyle": "line",
 	"editor.detectIndentation": false,
 	"editor.emptySelectionClipboard": false,
+	// Enable this for font consistency across different operating systems
 	//"editor.fontFamily": "Meslo LG S",
-	//"editor.fontSize": 14,
+	"editor.fontSize": 14,
 	"editor.formatOnPaste": false,
 	"editor.insertSpaces": false,
 	"editor.minimap.maxColumn": 140,
@@ -20,9 +21,13 @@
 	"material-icon-theme.opacity": 1,
 	"materialTheme.fixIconsRunning": false,
 	"terminal.integrated.experimentalRestore": true,
+	// Font is a matter of preference, please update this to the one you like
+	//"terminal.integrated.fontFamily": "Meslo LG S for Powerline",
 	"terminal.integrated.fontFamily": "Ubuntu Mono derivative Powerline",
+	"terminal.integrated.fontSize": 14,
 	"terminal.integrated.shell.osx": "zsh",
 	"terminal.integrated.shell.linux": "zsh",
+	// Looking for a solution to load zsh on Windows automatically
 	//"terminal.integrated.shell.windows": "ubuntu",
 	"vscode-json-editor.theme": "dark",
 	"vsicons.projectDetection.autoReload": true,

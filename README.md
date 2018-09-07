@@ -21,10 +21,10 @@ Copy this json to your Visual Studio user setting section for the purple customi
 * Braket Pair Colorizer
 * ESLint
 
-### Terminal configuration
+### Terminal configuration (man pages for configuration for each operating system are coming soon)
 * zsh (In terminal run: 'brew install zsh zsh-completions') [macos zsh installation instructions](http://sourabhbajaj.com/mac-setup/iTerm/zsh.html)
 * [powerlevel9k theme for zsh](https://github.com/bhilburn/powerlevel9k)
-* [zsh patched fonts](https://github.com/powerline/fonts)
+* [zsh patched fonts](https://github.com/powerline/fonts) -> Console font - "Ubuntu Mono derivative Powerline" or "Meslo LG S for Powerline"
 * [nvm for zsh plugin](https://github.com/lukechilds/zsh-nvm)
 
 ### For more information

@@ -1,6 +1,6 @@
 # Release Notes
 
-## 1.1.6 | 2018-09-06
+## 1.1.7 | 2018-09-06
 - Added code screenshot to readme.
 - Breadcrumb background for new feature in VS code release 1.27.
 - New settings configuration changes for dropdown border and modified setting highlight.
