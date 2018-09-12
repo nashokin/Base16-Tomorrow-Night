@@ -28,7 +28,7 @@ Copy this json to your Visual Studio user setting section for the purple customi
 * [nvm for zsh plugin](https://github.com/lukechilds/zsh-nvm)
 
 #### macOS zsh configuration (run these commands in Terminal)
-* `brew upate && brew upgrade && brew cleanup` - this command is not necessary, just to keep brew up to date
+* `brew update && brew upgrade && brew cleanup` - this command is not necessary, just to keep brew up to date
 * `brew install zsh` - install the zsh shell
 * `brew install zsh-completions` - additional command completions for zsh -> git repo [zsh-completions](https://github.com/zsh-users/zsh-completions)
 * `git clone https://github.com/bhilburn/powerlevel9k.git ~/powerlevel9k` - or change the path to the folder you like, but also change in the next command below
