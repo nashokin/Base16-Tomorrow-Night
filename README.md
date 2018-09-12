@@ -24,7 +24,7 @@ Copy this json to your Visual Studio user setting section for the purple customi
 ### Zsh packages
 * zsh - [http://www.zsh.org](http://www.zsh.org)
 * powerlevel9k theme for zsh -> git repo [powerlevel9k](https://github.com/bhilburn/powerlevel9k)
-* zsh patched fonts -> git repo [fonts](https://github.com/powerline/fonts)
+* zsh patched fonts -> git repo [fonts](https://github.com/powerline/fonts) - font used in configuration is "Ubuntu Mono derivative Powerline"; "Meslo LG S for Powerline" also my second best personal choice.
 * nvm for zsh plugin -> git repo [zsh-nvm](https://github.com/lukechilds/zsh-nvm)
 
 #### macOS zsh configuration (run these commands in Terminal)
