@@ -21,11 +21,28 @@ Copy this json to your Visual Studio user setting section for the purple customi
 * Braket Pair Colorizer
 * ESLint
 
-### Terminal configuration (man pages for configuration for each operating system are coming soon)
-* zsh (In terminal run: 'brew install zsh zsh-completions') [macos zsh installation instructions](http://sourabhbajaj.com/mac-setup/iTerm/zsh.html)
+### Zsh packages
+* zsh [http://www.zsh.org](http://www.zsh.org) [macos zsh installation instructions](http://sourabhbajaj.com/mac-setup/iTerm/zsh.html)
 * [powerlevel9k theme for zsh](https://github.com/bhilburn/powerlevel9k)
 * [zsh patched fonts](https://github.com/powerline/fonts) -> Console font - "Ubuntu Mono derivative Powerline" or "Meslo LG S for Powerline"
 * [nvm for zsh plugin](https://github.com/lukechilds/zsh-nvm)
+
+#### Mac OS zsh configuration (run these commands in Terminal)
+* `brew upate && brew upgrade && brew cleanup` - this command is not necessary, just to keep brew up to date
+* `brew install zsh' -
+* `brew install zsh-completions` - additional command completions for zsh [zsh-completions](https://github.com/zsh-users/zsh-completions)
+* `git clone https://github.com/bhilburn/powerlevel9k.git ~/powerlevel9k` - or change the path to the folder you like, but also change in the next command below
+* `echo 'source  ~/powerlevel9k/powerlevel9k.zsh-theme' >> ~/.zshrc`
+* `git clone https://github.com/powerline/fonts.git --depth=1` - clone git repo with programmer fonts
+* `cd fonts` and then `./install.sh`
+* `git clone https://github.com/lukechilds/zsh-nvm.git ~/.zsh-nvm` - or the folder preference of your choice, same as for powerlevel9k
+* `echo 'source ~/.zsh-nvm/zsh-nvm.plugin.zsh' >>  ~/.zshrc`
+
+### Windows
+* coming soon
+
+#### Linux (Ubuntu)
+* coming soon
 
 ### For more information
 * [Daniel Nashokin](http://www.zyker.com.au)
