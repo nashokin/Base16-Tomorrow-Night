@@ -22,10 +22,10 @@ Copy this json to your Visual Studio user setting section for the purple customi
 * ESLint - [Marketplace link](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
 ### Zsh packages
-* zsh [http://www.zsh.org](http://www.zsh.org) [macos zsh installation instructions](http://sourabhbajaj.com/mac-setup/iTerm/zsh.html)
-* [powerlevel9k theme for zsh](https://github.com/bhilburn/powerlevel9k)
-* [zsh patched fonts](https://github.com/powerline/fonts) -> Console font - "Ubuntu Mono derivative Powerline" or "Meslo LG S for Powerline"
-* [nvm for zsh plugin](https://github.com/lukechilds/zsh-nvm)
+* zsh - [http://www.zsh.org](http://www.zsh.org)
+* powerlevel9k theme for zsh -> git repo [powerlevel9k](https://github.com/bhilburn/powerlevel9k)
+* zsh patched fonts -> git repo [fonts](https://github.com/powerline/fonts) -> Console font - "Ubuntu Mono derivative Powerline" or "Meslo LG S for Powerline"
+* nvm for zsh plugin -> git repo [zsh-nvm](https://github.com/lukechilds/zsh-nvm)
 
 #### macOS zsh configuration (run these commands in Terminal)
 * `brew update && brew upgrade && brew cleanup` - this command is not necessary, just to keep brew up to date
