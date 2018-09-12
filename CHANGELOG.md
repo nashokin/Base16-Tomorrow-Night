@@ -1,5 +1,9 @@
 # Release Notes
 
+## 1.1.9 | 2018-09-12
+- Updated README with macOS Terminal configuration instructions.
+- Added marketplace links for list of extensions.
+
 ## 1.1.8 | 2018-09-06
 - Added code screenshot to readme.
 - Breadcrumb background for new feature in VS code release 1.27.
