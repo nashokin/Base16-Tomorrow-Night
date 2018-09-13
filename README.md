@@ -2,19 +2,19 @@
 This theme is converted from [chriskempson/base16-textmate](https://github.com/chriskempson/base16-textmate) to Visual Studio Code compatible theme. White and purple colors were updated to be in sync with the Visual Studio custom settings for this theme.
 
 ### Code
-![Base16 Visual Studio Code](https://raw.githubusercontent.com/nashokin/Base16-Tomorrow-Night/master/Screenshot-code.png)
-![Robot Thumbs Up](https://raw.githubusercontent.com/nashokin/Base16-Tomorrow-Night/master/robot-thumbs-up.svg)
+![Base16 Visual Studio Code](https://raw.githubusercontent.com/nashokin/Base16-Tomorrow-Night/master/images/Screenshot-code.png)
+'![Robot Thumbs Up](https://raw.githubusercontent.com/nashokin/Base16-Tomorrow-Night/master/images/Robot-thumbs-up.png)
 
 ## settings.json
 Copy this json to your Visual Studio user setting section for the purple customised look.
 * [settings.json](https://github.com/nashokin/Base16-Tomorrow-Night/blob/master/settings.json)
 
 ### macOS
-![Base16 Visual Studio Code mac](https://raw.githubusercontent.com/nashokin/Base16-Tomorrow-Night/master/Screenshot-mac.png)
+![Base16 Visual Studio Code mac](https://raw.githubusercontent.com/nashokin/Base16-Tomorrow-Night/master/images/Screenshot-mac.png)
 ### Windows
-![Base16 Visual Studio Code windows](https://raw.githubusercontent.com/nashokin/Base16-Tomorrow-Night/master/Screenshot-windows.png)
+![Base16 Visual Studio Code windows](https://raw.githubusercontent.com/nashokin/Base16-Tomorrow-Night/master/images/Screenshot-windows.png)
 ### Linux
-![Base16 Visual Studio Code windows](https://raw.githubusercontent.com/nashokin/Base16-Tomorrow-Night/master/Screenshot-linux.png)
+![Base16 Visual Studio Code windows](https://raw.githubusercontent.com/nashokin/Base16-Tomorrow-Night/master/images/Screenshot-linux.png)
 
 ### List of installed Vusial Studio Code extensions for screenshots
 * **Material Icon Theme** - marketplace [link](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
