@@ -3,6 +3,7 @@ This theme is converted from [chriskempson/base16-textmate](https://github.com/c
 
 ### Code
 ![Base16 Visual Studio Code](https://raw.githubusercontent.com/nashokin/Base16-Tomorrow-Night/master/Screenshot-code.png)
+![Robot Thumbs Up](https://raw.githubusercontent.com/nashokin/Base16-Tomorrow-Night/master/robot-thumbs-up.svg)
 
 ## settings.json
 Copy this json to your Visual Studio user setting section for the purple customised look.
