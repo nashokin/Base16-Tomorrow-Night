@@ -1,5 +1,9 @@
 # Release Notes
 
+## 1.1.10 | 2018-09-12
+- Moved images and fonts to separate foldels.
+- Added web site and email for contact information.
+
 ## 1.1.9 | 2018-09-12
 - Updated README with macOS Terminal configuration instructions.
 - Added marketplace links for list of extensions.

@@ -2,7 +2,7 @@
     "name": "base16-tomorrow-night",
     "displayName": "Base16 - Tomorrow Night Theme",
     "description": "Base16 - Tomorrow Night theme for Visual Studio Code",
-	"version": "1.1.9",
+	"version": "1.1.10",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/nashokin/Base16-Tomorrow-Night"
