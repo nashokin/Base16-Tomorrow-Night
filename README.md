@@ -3,7 +3,6 @@ This theme is converted from [chriskempson/base16-textmate](https://github.com/c
 
 ### Code
 ![Base16 Visual Studio Code](https://raw.githubusercontent.com/nashokin/Base16-Tomorrow-Night/master/images/Screenshot-code.png)
-'![Robot Thumbs Up](https://raw.githubusercontent.com/nashokin/Base16-Tomorrow-Night/master/images/Robot-thumbs-up.png)
 
 ## settings.json
 Copy this json to your Visual Studio user setting section for the purple customised look.
@@ -46,4 +45,6 @@ Copy this json to your Visual Studio user setting section for the purple customi
 * coming soon
 
 ### For more information
-* [Daniel Nashokin](http://www.zyker.com.au)
+* Daniel Nashokin - **www:** [http://www.zyker.com.au](http://www.zyker.com.au) **email:** [nashokin@outlook.com.au](mailto:nashokin@outlook.com.au)
+
+![Robot Thumbs Up](https://raw.githubusercontent.com/nashokin/Base16-Tomorrow-Night/master/images/Robot-thumbs-up.png)
