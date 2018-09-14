@@ -1,5 +1,8 @@
 # Release Notes
 
+## 1.1.11 | 2018-09-12
+- Added Linux(Ubuntu) zsh configuration instructions
+
 ## 1.1.10 | 2018-09-12
 - Moved images and fonts to separate foldels.
 - Added web site and email for contact information.
