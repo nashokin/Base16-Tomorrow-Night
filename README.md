@@ -51,11 +51,13 @@ Copy this json to your Visual Studio Code user setting section for the purple cu
 - `git clone https://github.com/bhilburn/powerlevel9k.git ~/powerlevel9k` - or change the path to the folder you like, but also change in the next command below
 - `echo 'source  ~/powerlevel9k/powerlevel9k.zsh-theme' >> ~/.zshrc`
 - close the Ubuntu shell
-- Start PowerSheel or CommandPromt
+- start PowerSheel or CommandPromt
 - clone fonts git repo -> `git clone https://github.com/powerline/fonts.git --depth=1`
 - in **WindowsExplorer** navigate to the fonts folder and install the dev font of your choice; in my case it's "`Ubuntu Mono derivative Powerline.ttf`"
-- TODO: Modify registry instructions
-- TODO: Change font in the console to the dev font
+- open RegEdit and navigate to this key `Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueTypeFont`
+- add new string value with the name "000" and the value of your preferred font, in my case it's "`Ubuntu Mono derivative Powerline`"
+- restart your computer for the changes to get applied
+- go to PowerShell or CommandPrompt and change the default font to the font added in the RegEdit
 - in Visual Studio Code press `Ctrl + ~` to open the bult-in console and type "`ubuntu`" and then in the Ubuntu terminal type "`zsh`" to launch the **zsh** shell
 
 #### Linux (Ubuntu)
