@@ -43,7 +43,20 @@ Copy this json to your Visual Studio Code user setting section for the purple cu
 - `echo 'source ~/.zsh-nvm/zsh-nvm.plugin.zsh' >>  ~/.zshrc`
 
 #### Windows
-- coming soon
+- install Ubuntu from Windows Store, follow the prompts to complete the installation
+- start Ubunty shell from the Start Menu
+- update all packege to the latest version - `sudo apt update && sudo apt upgrade`
+- `sudo apt install zsh` - install the **zsh** shell, will prompt for password
+- optionally install **zsh-completions** by following the Ubuntu instructions below
+- `git clone https://github.com/bhilburn/powerlevel9k.git ~/powerlevel9k` - or change the path to the folder you like, but also change in the next command below
+- `echo 'source  ~/powerlevel9k/powerlevel9k.zsh-theme' >> ~/.zshrc`
+- close the Ubuntu shell
+- Start PowerSheel or CommandPromt
+- clone fonts git repo -> `git clone https://github.com/powerline/fonts.git --depth=1`
+- in **WindowsExplorer** navigate to the fonts folder and install the dev font of your choice; in my case it's "`Ubuntu Mono derivative Powerline.ttf`"
+- TODO: Modify registry instructions
+- TODO: Change font in the console to the dev font
+- in Visual Studio Code press `Ctrl + ~` to open the bult-in console and type "`ubuntu`" and then in the Ubuntu terminal type "`zsh`" to launch the **zsh** shell
 
 #### Linux (Ubuntu)
 - `sudo apt update && sudo apt upgrade` - this command is not necessary, just to keep **Ubuntu** up to date :)
