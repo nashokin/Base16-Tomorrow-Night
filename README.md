@@ -59,7 +59,7 @@ Copy this json to your Visual Studio Code user setting section for the purple cu
 - restart your computer for the changes to get applied
 - go to PowerShell or CommandPrompt and change the default font to the font added in the RegEdit
 - in Visual Studio Code press `Ctrl + ~` to open the bult-in console and type "`ubuntu`" and then in the Ubuntu terminal type "`zsh`" to launch the **zsh** shell
-	- looking for a solution to lunch **zsh** by default on opening console on Windows in VS Code... will update instruction soon
+	- looking for a solution to lunch **zsh** by default on opening console on Windows in VS Code... will update instructions once I have it, tempting :)
 
 #### Linux (Ubuntu)
 - `sudo apt update && sudo apt upgrade` - this command is not necessary, just to keep **Ubuntu** up to date :)

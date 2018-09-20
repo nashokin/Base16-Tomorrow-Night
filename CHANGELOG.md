@@ -1,5 +1,8 @@
 # Release Notes
 
+## 1.1.12 | 2018-09-12
+- Added Windows console configuration instructions.
+
 ## 1.1.11 | 2018-09-12
 - Added Linux(Ubuntu) zsh configuration instructions.
 - Added user settings JSON configuration instructions.
