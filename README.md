@@ -52,13 +52,14 @@ Copy this json to your Visual Studio Code user setting section for the purple cu
 - `echo 'source  ~/powerlevel9k/powerlevel9k.zsh-theme' >> ~/.zshrc`
 - close the Ubuntu shell
 - start PowerSheel or CommandPromt
-- clone fonts git repo -> `git clone https://github.com/powerline/fonts.git --depth=1`
-- in **WindowsExplorer** navigate to the fonts folder and install the dev font of your choice; in my case it's "`Ubuntu Mono derivative Powerline.ttf`"
+- clone **Powerline** dev fonts git repo -> `git clone https://github.com/powerline/fonts.git --depth=1`
+- in **WindowsExplorer** navigate to the fonts folder and install (*right click on the font and select install from the dropdown menu*) the dev font of your choice; in my case it's "`Ubuntu Mono derivative Powerline.ttf`"
 - open RegEdit and navigate to this key `Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueTypeFont`
 - add new string value with the name "000" and the value of your preferred font, in my case it's "`Ubuntu Mono derivative Powerline`"
 - restart your computer for the changes to get applied
 - go to PowerShell or CommandPrompt and change the default font to the font added in the RegEdit
 - in Visual Studio Code press `Ctrl + ~` to open the bult-in console and type "`ubuntu`" and then in the Ubuntu terminal type "`zsh`" to launch the **zsh** shell
+	- looking for a solution to lunch **zsh** by default on opening console on Windows in VS Code... will update instruction soon
 
 #### Linux (Ubuntu)
 - `sudo apt update && sudo apt upgrade` - this command is not necessary, just to keep **Ubuntu** up to date :)
