@@ -1,5 +1,9 @@
 # Release Notes
 
+## 1.1.13 | 2019-03-07
+- Added Windows instructions how to enable Ubuntu zsh shell in integrated terminal.
+- Removed obsolete settings from settings JSON.
+
 ## 1.1.12 | 2018-09-12
 - Added Windows console configuration instructions.
 

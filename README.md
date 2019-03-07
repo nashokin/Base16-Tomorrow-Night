@@ -43,11 +43,12 @@ Copy this json to your Visual Studio Code user setting section for the purple cu
 - `echo 'source ~/.zsh-nvm/zsh-nvm.plugin.zsh' >>  ~/.zshrc`
 
 #### Windows
-- install Ubuntu from Windows Store, follow the prompts to complete the installation
+- install Ubuntu from Windows Store, follow the prompts to complete the installation (Windows Subsystem for Linux has to be installed/enabled as well)
 - start Ubunty shell from the Start Menu
 - update all packege to the latest version - `sudo apt update && sudo apt upgrade`
 - `sudo apt install zsh` - install the **zsh** shell, will prompt for password
 - optionally install **zsh-completions** by following the Ubuntu instructions below
+- change default Ubuntu shell from bash to zsh (requires root access) - `chsh -s /usr/bin/zsh`
 - `git clone https://github.com/bhilburn/powerlevel9k.git ~/powerlevel9k` - or change the path to the folder you like, but also change in the next command below
 - `echo 'source  ~/powerlevel9k/powerlevel9k.zsh-theme' >> ~/.zshrc`
 - close the Ubuntu shell
@@ -57,9 +58,7 @@ Copy this json to your Visual Studio Code user setting section for the purple cu
 - open RegEdit and navigate to this key `Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueTypeFont`
 - add new string value with the name "000" and the value of your preferred font, in my case it's "`Ubuntu Mono derivative Powerline`"
 - restart your computer for the changes to get applied
-- go to PowerShell or CommandPrompt and change the default font to the font added in the RegEdit
-- in Visual Studio Code press `Ctrl + ~` to open the bult-in console and type "`ubuntu`" and then in the Ubuntu terminal type "`zsh`" to launch the **zsh** shell
-	- looking for a solution to lunch **zsh** by default on opening console on Windows in VS Code... will update instructions once I have it, tempting :)
+- optionally go to PowerShell or CommandPrompt and change the default font to the font added in the RegEdit
 
 #### Linux (Ubuntu)
 - `sudo apt update && sudo apt upgrade` - this command is not necessary, just to keep **Ubuntu** up to date :)

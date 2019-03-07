@@ -3,7 +3,7 @@
 	"editor.cursorStyle": "line",
 	"editor.detectIndentation": false,
 	"editor.emptySelectionClipboard": false,
-	// Enable this for font consistency across different operating systems
+	// Enable this for font consistency across different operating systems, font has to be installed first
 	//"editor.fontFamily": "Meslo LG S",
 	"editor.fontSize": 14,
 	"editor.formatOnPaste": false,
@@ -20,21 +20,15 @@
 	"git.autofetch": true,
 	"material-icon-theme.folders.color": "#6b5692",
 	"material-icon-theme.opacity": 1,
-	"materialTheme.fixIconsRunning": false,
-	"terminal.integrated.experimentalRestore": true,
-	// Font is a matter of preference, please update this to the one you like
+	// Font is a matter of preference, please update this to the one you like, font has to be installed first
 	//"terminal.integrated.fontFamily": "Meslo LG S for Powerline",
 	"terminal.integrated.fontFamily": "Ubuntu Mono derivative Powerline",
 	"terminal.integrated.fontSize": 14,
 	"terminal.integrated.shell.osx": "zsh",
 	"terminal.integrated.shell.linux": "zsh",
-	// Looking for a solution to load zsh on Windows automatically
-	//"terminal.integrated.shell.windows": "ubuntu",
-	"vscode-json-editor.theme": "dark",
-	"vsicons.projectDetection.autoReload": true,
+	"terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe",
 	"window.restoreFullscreen": true,
 	"window.restoreWindows": "all",
-	"workbench.action.terminal.rename": "zsh",
 	"workbench.colorCustomizations": {
 		"activityBar.background": "#2d2839",
 		"activityBar.border": "#442d71",
