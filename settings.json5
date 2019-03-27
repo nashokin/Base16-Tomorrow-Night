@@ -3,11 +3,11 @@
     "editor.cursorStyle": "line",
     "editor.detectIndentation": false,
     "editor.emptySelectionClipboard": false,
-	// Enable this for font consistency across different operating systems, font has to be installed first
-	//"editor.fontFamily": "Meslo LG S",
+    // Enable this for font consistency across different operating systems, font has to be installed first
+    //"editor.fontFamily": "Meslo LG S",
     "editor.fontSize": 14,
     "editor.formatOnPaste": false,
-	//"editor.fontLigatures": true,
+    //"editor.fontLigatures": true,
     "editor.insertSpaces": false,
     "editor.minimap.maxColumn": 140,
     "editor.minimap.showSlider": "always",
@@ -20,8 +20,8 @@
     "git.autofetch": true,
     "material-icon-theme.folders.color": "#6b5692",
     "material-icon-theme.opacity": 1,
-	// Font is a matter of preference, please update this to the one you like, font has to be installed first
-	//"terminal.integrated.fontFamily": "Meslo LG S for Powerline",
+    // Font is a matter of preference, please update this to the one you like, font has to be installed first
+    //"terminal.integrated.fontFamily": "Meslo LG S for Powerline",
     "terminal.integrated.fontFamily": "Ubuntu Mono derivative Powerline",
     "terminal.integrated.fontSize": 14,
     "terminal.integrated.rendererType": "dom",
