@@ -1,5 +1,10 @@
 # Release Notes
 
+## 1.1.14 | 2019-03-27
+- Removed "-" from the theme name as it's more common convetion for naming.
+- Removed unused properties from the settings.json config.
+- Added JSON5 settings file for storing sorted json with comments.
+
 ## 1.1.13 | 2019-03-07
 - Added Windows instructions how to enable Ubuntu zsh shell in integrated terminal.
 - Removed obsolete settings from settings JSON.
