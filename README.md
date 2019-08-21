@@ -13,8 +13,7 @@ Copy this json to your Visual Studio Code user setting section for the purple cu
 	- copy/paste everything from `settings.json` into right hand side panel and save; delete all previous settings before paste; merge it if you know what you're doing :)
 
 #### macOS
-	-> Screenshot coming soon
-<!-- ![Base16 Visual Studio Code mac](https://raw.githubusercontent.com/nashokin/Base16-Tomorrow-Night/master/images/Screenshot-mac.png) -->
+![Base16 Visual Studio Code mac](https://raw.githubusercontent.com/nashokin/Base16-Tomorrow-Night/master/images/Screenshot-mac.png)
 #### Windows
 ![Base16 Visual Studio Code windows](https://raw.githubusercontent.com/nashokin/Base16-Tomorrow-Night/master/images/Screenshot-windows.png)
 #### Linux
